@@ -19,7 +19,7 @@ U 1 1 617A1BE0
 P 2250 3350
 F 0 "J1" H 2300 4967 50  0000 C CNN
 F 1 "Logic Board" H 2300 4876 50  0000 C CNN
-F 2 "pub:AppleIIeAux" H 2250 3350 50  0001 C CNN
+F 2 "rharke:AppleIIeAux" H 2250 3350 50  0001 C CNN
 F 3 "~" H 2250 3350 50  0001 C CNN
 	1    2250 3350
 	1    0    0    -1  
@@ -614,7 +614,7 @@ U 1 1 617BBD8A
 P 3750 3350
 F 0 "J2" H 3800 4967 50  0000 C CNN
 F 1 "RAM Card" H 3800 4876 50  0000 C CNN
-F 2 "pub:CardEdge_EDAC_3x5-060_2x30_P2.54mm_CCW_No47" H 3750 3350 50  0001 C CNN
+F 2 "rharke:CardEdge_EDAC_3x5-060_2x30_P2.54mm_CCW_No47" H 3750 3350 50  0001 C CNN
 F 3 "~" H 3750 3350 50  0001 C CNN
 	1    3750 3350
 	1    0    0    -1  
@@ -689,7 +689,7 @@ U 1 1 6075295D
 P 8300 3700
 F 0 "J6" H 8357 4167 50  0000 C CNN
 F 1 "USB A" H 8357 4076 50  0000 C CNN
-F 2 "pub:USB_A_Stewart_SS-52100-001_Horizontal" H 8450 3650 50  0001 C CNN
+F 2 "rharke:USB_A_Stewart_SS-52100-001_Horizontal" H 8450 3650 50  0001 C CNN
 F 3 " ~" H 8450 3650 50  0001 C CNN
 	1    8300 3700
 	1    0    0    -1  
@@ -795,12 +795,12 @@ Connection ~ 2800 4850
 Wire Wire Line
 	2800 4850 2550 4850
 $Comp
-L pub:RamWorks_Piggyback^2_Logo G1
+L rharke:RamWorks_Piggyback^2_Logo G1
 U 1 1 608F18A5
 P 8850 5300
 F 0 "G1" H 8850 4557 60  0001 C CNN
 F 1 "RamWorks_Piggyback^2_Logo" H 8850 6043 60  0001 C CNN
-F 2 "pub:piggyback-logo-2" H 8850 5300 50  0001 C CNN
+F 2 "rharke:piggyback-logo-2" H 8850 5300 50  0001 C CNN
 F 3 "" H 8850 5300 50  0001 C CNN
 	1    8850 5300
 	1    0    0    -1  

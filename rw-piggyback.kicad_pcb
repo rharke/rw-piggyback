@@ -242,7 +242,7 @@
     (add_net GND)
   )
 
-  (module pub:piggyback-logo-2 (layer F.Cu) (tedit 0) (tstamp 6057E0CB)
+  (module rharke:piggyback-logo-2 (layer F.Cu) (tedit 0) (tstamp 6057E0CB)
     (at 109.22 132.715)
     (path /608F18A5)
     (fp_text reference G1 (at 0 0) (layer F.SilkS) hide
@@ -592,7 +592,7 @@
       (xy -2.356701 -8.330373)) (layer F.SilkS) (width 0.01))
   )
 
-  (module pub:USB_A_Stewart_SS-52100-001_Horizontal (layer F.Cu) (tedit 60569D38) (tstamp 6057B90B)
+  (module rharke:USB_A_Stewart_SS-52100-001_Horizontal (layer F.Cu) (tedit 60569D38) (tstamp 6057B90B)
     (at 194.945 81.28 90)
     (descr "USB A connector https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-52100-001.pdf")
     (tags "USB_A Female Connector receptacle")
@@ -666,7 +666,7 @@
     )
   )
 
-  (module pub:CardEdge_EDAC_3x5-060_2x30_P2.54mm_CCW_No47 (layer F.Cu) (tedit 60569C9E) (tstamp 6057B76F)
+  (module rharke:CardEdge_EDAC_3x5-060_2x30_P2.54mm_CCW_No47 (layer F.Cu) (tedit 60569C9E) (tstamp 6057B76F)
     (at 116.205 127 90)
     (descr "Through hole straight pin header, 2x25, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x25 2.54mm double row")
@@ -822,7 +822,7 @@
     )
   )
 
-  (module pub:AppleIIeAux (layer F.Cu) (tedit 6065D013) (tstamp 6057B852)
+  (module rharke:AppleIIeAux (layer F.Cu) (tedit 6065D013) (tstamp 6057B852)
     (at 108.585 133.985)
     (path /617A1BE0)
     (fp_text reference J1 (at 36.83 -5.08) (layer F.SilkS) hide
