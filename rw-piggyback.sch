@@ -609,7 +609,7 @@ NoConn ~ 6450 3450
 NoConn ~ 6450 3550
 NoConn ~ 6450 3950
 $Comp
-L kclibrary:Conn_02x30_Counter_Clockwise_No47 J2
+L rharke:Conn_02x30_Counter_Clockwise_No47 J2
 U 1 1 617BBD8A
 P 3750 3350
 F 0 "J2" H 3800 4967 50  0000 C CNN
