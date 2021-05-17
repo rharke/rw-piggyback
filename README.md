@@ -41,4 +41,5 @@ You can use the gerbers in `rw-piggyback-gerber.zip` to have the PCB manufacture
 * Cut off pin 47 from the edge connector, as close to the plastic as you can. You can tell which pin is 47 by holding the connector up to the PCB. It is the one in the position that crosses over with the 24-pin female header. You won't be able to insert the connector into the PCB until you cut the pin, because the 24-pin female header is occupying that position.
 * Please 2 rubber bumpers in the circles indicated on the FRONT of the PCB.
 * Insert the 60-pin edge connector into the FRONT of the PCB, using the rubber bumpers to ensure proper spacing from the PCB. Try to keep it straight, and solder it in place.
+* Trim the excess length off of the edge connector leads on the back of the PCB, if necessary. Not all brands of edge connectors will have excess length (but the EDAC ones do).
 * Solder in the USB receptable, the 2-pin header, and the capacitor to the FRONT of the PCB.
