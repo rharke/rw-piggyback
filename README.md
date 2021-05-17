@@ -20,6 +20,8 @@ Since this project is MIT licensed, please feel free to build your own if you li
 
 ![Photo of assembled card](photo1.jpg)
 
+![Photo of 3 assembled cards, including back](photo2.jpg)
+
 ## Bill of Materials
 
 * 60-pin 0.1" pin / 0.2" row right-angle female edge connector (suggested: [EDAC 	
