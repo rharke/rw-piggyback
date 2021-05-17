@@ -28,7 +28,7 @@ Since this project is MIT licensed, please feel free to build your own if you li
 395-060-558-201](https://www.digikey.com/en/products/detail/edac-inc/395-060-558-201/10885109))
 * 24-pin 0.1" female header (suggested: [Sullins PPPC241LFBN-RC](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC241LFBN-RC/810196))
 * 8-pin 0.1" female header (suggested: [Sullins PPPC081LFBN-RC](https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC081LFBN-RC/S7041-ND/810180))
-* 2x 0.5" rubber bumper (suggesteD: [3M Bumpon SJ6512](https://www.digikey.com/en/products/detail/3m/SJ6512/3866123))
+* 2x 0.5" rubber bumper (suggested: [3M Bumpon SJ6512](https://www.digikey.com/en/products/detail/3m/SJ6512/3866123))
 * Optional: USB-A female receptacle (suggested: [Stewart SS-52100-001](https://www.digikey.com/en/products/detail/stewart-connector/SS-52100-001/7902377))
 * Optional: 2-pin 0.1" right angle male header (suggested: [Sullins PRPC002SBAN-M71RC](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PRPC002SBAN-M71RC/2775332))
 * Optional: 220pF 0.2" ceramic capacitor (suggested: [KEMET C322C221K1G5TA](https://www.digikey.com/en/products/detail/kemet/C322C221K1G5TA/3726159))
