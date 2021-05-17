@@ -35,7 +35,7 @@ Since this project is MIT licensed, please feel free to build your own if you li
 
 ## Assembly
 
-You can use the gerbers in `rw-piggyback-gerbers.zip` to have the PCB manufactured at the FAB of your choice.
+You can use the gerbers in `rw-piggyback-gerber.zip` to have the PCB manufactured at the FAB of your choice.
 
 * Insert and solder the 8-pin and the 24-pin female headers to the BACK of the PCB. You MUST do this first, before you solder in the edge connector.
 * Cut off pin 47 from the edge connector, as close to the plastic as you can. You can tell which pin is 47 by holding the connector up to the PCB. It is the one in the position that crosses over with the 24-pin female header. You won't be able to insert the connector into the PCB until you cut the pin, because the 24-pin female header is occupying that position.
